@@ -1,0 +1,5 @@
+.kenar{
+    border-style: dashed;
+    border: 1px solid red;
+    border-width: 20px;
+}

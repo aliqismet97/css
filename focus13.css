@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+    color: aqua;
+    border: 1px solid red;
+    
+}
+a:link{
+
+}
+a:visited{
+
+}
+a:hover{
+    color: blue;
+    background-color: chartreuse;
+}
+a:active{
+    color: brown;
+}

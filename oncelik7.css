@@ -1,0 +1,17 @@
+*{
+    color: blue;
+}
+p{
+    color: aquamarine;
+}
+div p{
+    color: brown;
+}
+.once{
+    background-color: blue;
+    width: 400px;
+    
+}
+#once{
+    background-color: brown;
+}
